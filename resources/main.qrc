@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>multi-language.svg</file>
+        <file>add-select.svg</file>
+        <file>sami-select.svg</file>
+    </qresource>
+</RCC>
